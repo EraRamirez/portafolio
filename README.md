@@ -2,7 +2,7 @@
 
 Computer Systems Engineer — Frontend & UI/UX Design
 
-CDMX, Mexico | (+52) 56 57 67 79 72 | ramirezayalaerandi@gmail.com | [LinkedIn](#) | [GitHub](https://github.com/EraRamirez)
+CDMX, Mexico | (+52) 56 57 67 79 72 | erandiramireza@gmail.com | [LinkedIn](#) | [GitHub](https://github.com/EraRamirez)
 
 ## About
 
@@ -23,5 +23,5 @@ The portfolio covers four case studies with real, screenshotted production scree
 
 ## Contact
 
-- Email: ramirezayalaerandi@gmail.com
+- Email: erandiramireza@gmail.com
 - Phone: (+52) 56 57 67 79 72
