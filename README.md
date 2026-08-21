@@ -10,7 +10,7 @@ Computer Systems Engineer with a frontend focus and a UI/UX design practice, who
 
 ## Portfolio
 
-Live portfolio (password-protected): **https://eraramirez.github.io/portfolio/**
+Live portfolio (password-protected): **https://eraramirez.github.io/portafolio/**
 
 Password: shared separately per application, on request.
 
