@@ -12,9 +12,7 @@ Computer Systems Engineer with a frontend focus and a UI/UX design practice, who
 
 Live portfolio (password-protected): **https://eraramirez.github.io/portfolio/**
 
-Password: shared separately per application (see résumé header for "portfolio + password on request").
-
-> Note: if the link above 404s, GitHub Pages isn't enabled yet on this repo — go to **Settings → Pages**, set Source to the `main` branch, `/ (root)` folder, and save. It takes a minute or two to go live.
+Password: shared separately per application, on request.
 
 The portfolio covers four case studies with real, screenshotted production screens:
 
